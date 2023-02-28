@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+!DLL/*
+
+Release
+Debug
+.vscode
+.DS_Store
